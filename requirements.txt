@@ -1,0 +1,12 @@
+geopandas==0.10.2
+ipython==8.11.0
+ipywidgets==7.6.5
+matplotlib==3.5.0
+netCDF4==1.6.3
+numpy==1.22.3
+osgeo==0.0.1
+pandas==1.4.2
+python_dateutil==2.8.2
+scipy==1.7.3
+Shapely==1.7.1
+xarray==0.20.1
